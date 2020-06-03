@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1-1024x512.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
